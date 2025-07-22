@@ -11,7 +11,6 @@ Uma Pokédex interativa desenvolvida com JavaScript puro, HTML e CSS. Este proje
   - Tipos
   - Habilidades
   - Imagem oficial (sprite)
-- 🔄 Navegação entre Pokémon (anterior/próximo)
 - 🎨 Interface responsiva e amigável
 
 ## 🛠️ Tecnologias Utilizadas
